@@ -191,12 +191,3 @@ This tool is published under the MIT License.
 
 ---
 
-## Next Steps
-
-* Host the project on GitHub
-* Add GitHub Actions for automated tests and PyPI publishing
-* Optional: convert to `.deb` package for `apt install adiff`
-
----
-
-For help or suggestions, feel free to open issues or contribute to the GitHub repository.
