@@ -27,7 +27,6 @@ sudo apt install python3 python3-pip
 
 ## Installation via pip
 
-After packaging and uploading `adiff` to PyPI, install it via:
 
 ```bash
 pip install adiff
