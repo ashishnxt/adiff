@@ -22,9 +22,16 @@
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip
-pip3 install adiff
+
 ```
 
+## Installation via pip
+
+After packaging and uploading `adiff` to PyPI, install it via:
+
+```bash
+pip install adiff
+```
 ---
 
 ## Usage Examples
